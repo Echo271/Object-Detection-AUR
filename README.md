@@ -1,7 +1,7 @@
 # Automation Underwater Robot - Kontes Robot Bawah Air Indonesia
 ## Kontes Robot Indonesia 2023
 
-<img src="/images/krbai.jpg" width="600" style="margin:auto;">
+<img src="/images/krbai.jpg">
 
 D403-Sub merupakan robot bawah air yang memiliki misi untuk menemukan objek, dimana misi tersebut merupakan misi dasar dari <i>Search And Rescue</i> (SAR). Menggunakan 4 propeller, D403-sub dapat melakukan manuver dasar dibawah air seperti menyelam, meluncur, haluan, serta kembali kepermukaan air.
 
